@@ -39,6 +39,13 @@
           "color": "#c8ff47"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "8ee8eb31-beef-498c-a483-5bd5ada971a3"
+      }
+    },
+    "owner": "ashishkrnew712-hue"
   }
 }
